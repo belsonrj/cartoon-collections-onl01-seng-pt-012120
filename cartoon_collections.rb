@@ -10,7 +10,7 @@ def summon_captain_planet(array)
   camptain_planet = [] 
   i = 0 
   while i < array.length 
-    yield
+    camptain_planet << 
 end
 
 def long_planeteer_calls# code an argument here
