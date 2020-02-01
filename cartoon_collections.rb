@@ -16,9 +16,9 @@ def summon_captain_planet(array)
   captain_planet
 end
 
-def long_planeteer_calls(short_words)
+def long_planeteer_calls(array)
   i = 0 
-  
+  if array.any?
 end
 
 def find_the_cheese# code an argument here
