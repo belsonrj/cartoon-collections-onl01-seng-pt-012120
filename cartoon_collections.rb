@@ -29,5 +29,6 @@ end
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  array.find do |type| 
+    array.find do |type|
+    
 end
